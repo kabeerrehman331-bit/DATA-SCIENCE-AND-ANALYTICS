@@ -1,7 +1,7 @@
 # Task 2: Credit Risk Prediction
 
 ## Objective
-Predict whether a loan applicant will default on their loan.
+Predict whether a loan applicant will get approved or not.
 
 ## Dataset
 - Source: Kaggle Loan Prediction Dataset
